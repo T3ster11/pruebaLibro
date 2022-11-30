@@ -4,4 +4,6 @@ Capítulo 3: Gestión de ramas
 Capítulo 4: Repositorios remotos
 Capítulo 5: Configuraciones para repositorios remotos
 Capítulo 6: Errores
+Capítulo 7: Trabajo colaborativo
+Capitulo 8: ¿Que es un FORK?
 FIN DEL INDICE
